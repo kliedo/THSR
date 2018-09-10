@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="高鐵票價查詢系統">
+    <output-path>E:/使用者/桌面</output-path>
+    <root id="archive" name="高鐵票價查詢系統.jar">
+      <element id="module-output" name="THSR" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
